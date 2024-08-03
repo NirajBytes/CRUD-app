@@ -1,2 +1,2 @@
 # CRUD-app
- basic operatins 
+ Basic Operations 
